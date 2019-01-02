@@ -36,7 +36,7 @@ github用户名
 WOOP理论：例子，if 今晚九点到家 then 背50个单词  
 leetcode：工程师常用的面试算法题库。github地址 [https://github.com/dybwall1234/my_leetcode](https://github.com/dybwall1234/my_leetcode)
 
-![牛人清单](docs/authors)  
-![牛刊清单](docs/journals)
+![牛人清单](docs/authors.md)  
+![牛刊清单](docs/journals.md)
 
 
