@@ -40,6 +40,9 @@ leetcode：工程师常用的面试算法题库。github地址 [https://github.
 ![牛刊清单](docs/journals.md)
 
 # 时间节点
+5wd3 完成信息搜集，进入分析阶段  
+6wd6 (190119) 19:42 前提交项目 demo/最终幻灯，报名路演，届时将发出 7w 具体路演安排  
+7w 路演，全体同学将依据「选题」「分析」「展示」三个维度为项目打分。  
 https://m.openmindclub.com/stu/IA003/discussion/e629f9ff-4b40-42d9-8c5b-89cb5154d896
 
 
