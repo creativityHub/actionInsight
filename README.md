@@ -39,4 +39,7 @@ leetcode：工程师常用的面试算法题库。github地址 [https://github.
 ![牛人清单](docs/authors.md)  
 ![牛刊清单](docs/journals.md)
 
+# 时间节点
+https://m.openmindclub.com/stu/IA003/discussion/e629f9ff-4b40-42d9-8c5b-89cb5154d896
+
 
