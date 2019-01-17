@@ -10,10 +10,11 @@ zotero仓库 https://www.zotero.org/groups/2272211/creativityhub
 其他资源   
 雪莹的教育学仓库 https://github.com/serena333/OnlineEduToolkit/issues/2#issuecomment-453987805  
 战略仓库 https://github.com/ViolaChen/corporate-strategic   
+VR仓库 https://github.com/kiaorahao/IA003BP  
 升升的文献库 http://www.05h.net/    用户名 glamour_bunny 密码 123456  
 
 参考资料   
-
+BP答疑 https://zoom.us/recording/play/bdeeRyAmvAPcKzK2i3KkYqplycWXH7j3KM89L5GIuaKGuhxbSVg6yMG5nGNiakfu?autoplay=true
 # 协作指南  
 
 
