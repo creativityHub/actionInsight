@@ -11,8 +11,8 @@
 
 ### 原则  
 契约精神，  
-    开会准时出现，要不提前请假。  
-内容输出。  
+    开会准时出现，不能参加，请提前请假。  
+    保证个人输出。    
 个人进度输出模板 code/progress.md  
 会议纪要 code/meeting-note.md  
 工具使用 docs/tool-guide.md  
