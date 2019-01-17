@@ -7,6 +7,7 @@
 张弘  
 升升  
 宋明迅  
+张锐，目前在上海中医药大学从事研究工作  
 
 ### 原则  
 契约精神，  
@@ -35,6 +36,7 @@ zotero仓库 https://www.zotero.org/groups/2272211/creativityhub
 雪莹的教育学仓库 https://github.com/serena333/OnlineEduToolkit/issues/2#issuecomment-453987805  
 战略仓库 https://github.com/ViolaChen/corporate-strategic   
 VR仓库 https://github.com/kiaorahao/IA003BP  
+懒人投资 https://github.com/bchen4/bench_investment  
 升升的文献库 http://www.05h.net/    用户名 glamour_bunny 密码 123456  
 
 参考资料   
