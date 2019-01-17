@@ -28,5 +28,7 @@ Kurt Lewin, first coined the term "action research" in 1944。
 3，资料处理   
 ## 输出清单
 
-## changelog
+## changelog  
+20190117 初稿
+
 

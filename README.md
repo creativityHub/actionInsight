@@ -13,7 +13,9 @@
 契约精神，  
     开会准时出现，要不提前请假。  
 内容输出。  
-进度输出模板 code/progress.md  
+个人进度输出模板 code/progress.md  
+会议纪要 code/meeting-note.md  
+工具使用 docs/tool-guide.md  
 
 ## 项目计划  
 5wd3 完成信息搜集，进入分析阶段      
