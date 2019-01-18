@@ -5,6 +5,8 @@ ssh key
 代码提交 git add, git commit, git push
 代码更新 git pull
 
+可以用issue
+
 ## zotero
 
 ## 论文处理
