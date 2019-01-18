@@ -84,6 +84,8 @@ Kurt Lewin, first coined the term "action research" in 1944。
 进取性目标 防御性目标 速度与准确的权衡。
 
 ## 输出清单
+每日行动清单
+行动阻碍因素自检清单
 
 ## changelog  
 20190117 初稿
