@@ -23,7 +23,7 @@ Kurt Lewin, first coined the term "action research" in 1944。
 
 图1，单环学习和双环学习  
 ![](https://duane-1258291235.cos.ap-beijing.myqcloud.com/20190120104108.png)
-主要区别是，如果结果不如预期，单环主要是反思行动策略，进行改进。而双环会重新框定情境，例如信念，环境等因素。  
+主要区别是，如果结果不如预期，单环主要是反思行动策略，进行改进。而双环会重新框定情境，例如信念，环境等因素。  例子 北京咳  
 
 图2，Models I and II   
 ![](https://duane-1258291235.cos.ap-beijing.myqcloud.com/20190120104124.png)
