@@ -11,7 +11,7 @@
 简便起见，与大作业相关的主题，主要有目标，计划，行动，动力，动机，意图，自制力，意志力，自我监控，自我效能，执行意图，习惯，拖延，行动瘫痪等  
 2，界定大作业课题中所涉关键理论，进行大作业阶段拆分，寻找各个阶段中行动的理论支持和实践策略  
 问卷调查，大作业最关键步骤与坑，开会反复进行讨论和寻找理论支持，确定各环节可用理论和实践策略。然后主要使用《成功，动机与目标》里的主题词进行对应。  
-3，提炼关键矛盾，输出关键理论和实践策略。
+3，提炼关键矛盾，输出关键理论和实践策略。  
 回到关键问题，发现最关键的理论是Argyris的双环学习，涉及到行动的主要是动机学领域的Deci的自我决定论，动机学引用排第三的刚好是发布防御性目标和进取型目标的E. Tory Higgins。然后目标与监控，则主要是Goal-setting theory领域的Edwin A. Locke。团队学习方面则依然是Argyris的MODEL II  
 重要经验就是，演绎真的很难，很多领域的资料断裂很严重，得从实际问题分解，从一个个case对应起，再做提炼。  
 
@@ -98,58 +98,57 @@ Deci说，我们的基本需求是自主，胜任，归属。这些需求也就�
 #### 路演
 写好逐字稿，声音最好的讲，全体参与答疑。多用二维表，简洁直观。
 
-## 输出清单
-### 团队规范清单：
-模板：
-进度模板.md
-## 摘要
-## item1
-摘要：
-源链接：
-## item2
+## 输出清单  
+### 团队规范清单：  
+模板：  
+进度模板.md  
+## 摘要  
+## item1  
+摘要：  
+源链接：  
+## item2  
 
-meeting-note.md：
-## 摘要
-时间：
-地点：
-主要信息：
-## 信息点
-## 行动点
-## 疑问点
+meeting-note.md：  
+## 摘要  
+时间：  
+地点：  
+主要信息：  
+## 信息点  
+## 行动点  
+## 疑问点  
 
 ### 每日行动清单：
-meeting prepare
-1, 每天至少完成三个todo条目，并commit your progress
-2, prepare your doubt
-3, prepare what you want add to the todolist
+会前：
+1, 每天至少完成三个todo条目，并会前提交。  
+2, 准备要讨论的课题    
+3, 准备要加进todolist的议题   
 
-in meeting:
-1, retell other`s progress in turn
-2, discuss you doubt and your todo items
-3, decide put which items into todolist
-4, team progress review
+会中:
+1, 交叉复述别人的进展  
+2, 讨论接下来要做的条目  
+3, 项目进度回顾  
 
-after meeting:
-update the meeting-memo
-update the todolist
+会后:
+更新会议纪要  
+更新todolist  
 
 ### 行动阻碍因素自检清单 TODO 列出所有行动障碍 并举例
 mental contrasting
 be-good vs get-better
 promotion vs prevention
 if...then... list
-minimum action card
-plan and monitor
+最小行动卡片
+计划和监控
 
 ## 参考资料
-《行动科学》
-《成功，动机与目标》
-《第五项修炼》
-action research resource：http://www.aral.com.au/resources/
+《行动科学》  
+《成功，动机与目标》  
+《第五项修炼》  
+action research resource：http://www.aral.com.au/resources/  
 
 ## changelog  
-20190117 初稿
-20190118 v1.0
-20190120 v1.1
+20190117 初稿  
+20190118 v1.0  
+20190120 v1.1  
 
 
