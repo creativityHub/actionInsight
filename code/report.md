@@ -37,7 +37,7 @@ Kurt Lewin, first coined the term "action research" in 1944。
 那么跟我们大作业相关的核心问题：  
 1，我们怎么计划，行动和进行结果验证。      
 2，结果不如预期时，我们该怎么办，到底是使用新的目标，计划和行动方案，还是对情境或者对自我进行重新认识。   
-3，如何团队学习，生产集体智慧。    
+3，如何团队学习，生产集体智慧。  
 
 
 ### 大作业时间拆分
@@ -118,7 +118,7 @@ meeting-note.md：
 
 ### 每日行动清单：
 会前：
-1, 每天至少完成三个todo条目，并会前提交。  
+1, 每天至少完成三个卡片，并会前提交。  
 2, 准备要讨论的课题    
 3, 准备要加进todolist的议题   
 
@@ -132,12 +132,12 @@ meeting-note.md：
 更新todolist  
 
 ### 行动阻碍因素自检清单 TODO 列出所有行动障碍 并举例
-mental contrasting
-be-good vs get-better
-promotion vs prevention
-if...then... list
-最小行动卡片
-计划和监控
+mental contrasting  
+be-good vs get-better  
+promotion vs prevention    
+if...then... list    
+最小行动卡片  
+计划和监控  
 
 ## 参考资料
 《行动科学》  
