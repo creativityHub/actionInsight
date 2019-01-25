@@ -41,9 +41,10 @@ VR仓库 https://github.com/kiaorahao/IA003BP
 
 参考资料   
 BP答疑 https://zoom.us/recording/play/bdeeRyAmvAPcKzK2i3KkYqplycWXH7j3KM89L5GIuaKGuhxbSVg6yMG5nGNiakfu?autoplay=true
-
+你写论文时发现了哪些神网站？ - 周不润的回答 - 知乎
+https://www.zhihu.com/question/35931336/answer/71654690
 ## changelog  
-20190107 立项
-20190117 初稿
+20190107 立项  
+20190117 初稿  
 
 
